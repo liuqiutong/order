@@ -60,8 +60,6 @@
 		&nbsp;
 		<input type = "button" value = "取消" onclick="window.location.href='/showMenus'"/>
 	</form>
-		<br/>
-		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=20007464" >京ICP备20007464号</a>
 
 </body>
 </html>

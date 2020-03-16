@@ -386,6 +386,8 @@
 			
 			})
 		</script>
+		<br/>
+		<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=20007464" >京ICP备20007464号</a>
 
 </body>
 </html>
