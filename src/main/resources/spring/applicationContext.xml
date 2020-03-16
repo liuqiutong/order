@@ -14,7 +14,7 @@
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://39.99.222.4:3306/order?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
 	 	<property name="username" value="root" />
-        <property name="password" value="liuqt" />
+        <property name="password" value="liuqt01" />
 	</bean>
 
 	<!-- 数据会话工厂：映射模型包-->
